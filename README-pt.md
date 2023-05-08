@@ -22,10 +22,10 @@ Conclusão:
 
 Este projeto de estudo demonstra o uso de HTML e CSS para desenvolver um site responsivo com uma abordagem mobile-first.
 
-Desktop version
+Versão Desktop 
 
 <img src="printdesktop.png" width="200">
 
-Mobile version
+Versão Mobile
 
 <img src="printmobile.png" width="200">
