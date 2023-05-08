@@ -17,6 +17,6 @@ To view the website, simply open the index.html file in a web browser. The websi
 Conclusion:
 This study project demonstrates the use of HTML and CSS for developing a responsive website with a mobile-first approach. 
 
-<img src="printdesktop.png">
+<img src="printdesktop.png" width="200">
 
 <img src="printmobile.png" width="200">
