@@ -12,7 +12,15 @@ Approach:
 The mobile-first approach is an essential aspect of this project. The website is first designed and developed for mobile screens, ensuring that the layout and content are optimized for smaller devices. Then, using CSS media queries, the design is adapted to larger screens, such as tablets and desktops.
 
 Getting Started:
-To view the website, simply open the index.html file in a web browser. The website is optimized for mobile devices first, so it is recommended to view it on a mobile device or by resizing the browser window to a smaller size.
+To view the website, simply open the index.html file in a web browser. 
 
 Conclusion:
 This study project demonstrates the use of HTML and CSS for developing a responsive website with a mobile-first approach. 
+
+Desktop version
+
+<img src="printdesktop.png" width="200">
+
+Mobile version
+
+<img src="printmobile.png" width="200">
